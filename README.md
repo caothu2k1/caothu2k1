@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thao</h1>
-<h3 align="center">A passionate Mechatronics Engineering from VietNam</h3>
+<h3 align="center">A Mechatronics Engineer with a great passion for AI, Computer Vision and Robotics</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caothu2k1&label=Profile%20views&color=0e75b6&style=flat" alt="caothu2k1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/thaopham" target="blank"><img src="https://img.shields.io/twitter/follow/thaopham?logo=twitter&style=for-the-badge" alt="thaopham" /></a> </p>
