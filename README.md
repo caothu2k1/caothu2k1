@@ -2,7 +2,7 @@
 <h3 align="center">A Mechatronics Engineer with a great passion for AI, Computer Vision and Robotics</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caothu2k1&label=Profile%20views&color=0e75b6&style=flat" alt="caothu2k1" /> </p>
 
-<p align="left"> <a href="https://x.com/ptt17062k1?t=xmvGu9cbl4frJXrS13o-Eg&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/thaopham?logo=twitter&style=for-the-badge" alt="thaopham" /></a> </p>
+<p align="left"> <a href="https://x.com/thaopt2169?t=d9JVpj7tsvIOUUxAdVukvQ&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/thaopham?logo=twitter&style=for-the-badge" alt="thaopham" /></a> </p>
 
 - 💬 Ask me about **Deep Learning, AI, Computer Vision, Embedded system,Robotics**
 
